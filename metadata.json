@@ -1,0 +1,6 @@
+{
+  "name": "Mutating Handicap -1.5 Football Analytics",
+  "description": "Football statistics and match prediction platform focused exclusively on Asian Handicap -1.5 analysis powered by API-Sports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
